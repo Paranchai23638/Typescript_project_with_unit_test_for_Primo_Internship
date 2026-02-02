@@ -1,0 +1,2 @@
+# Typescript_project_with_unit_test_for_Primo_Internship
+Primo's test for internship
